@@ -11,8 +11,8 @@ flutter_bloc 7.3.2
 
 ## Bloc & Cubit
 
-![image info](./bloc&cubit.png)
-* image from WCKD's flutterly channel
+![image info](./bloc&cubit.png)  
+*(image from WCKD's flutterly channel)*  
 
 - Bloc & Cubit as a logic component to handle the business logic and communicate with both UI and data model
 - From Bloc/Cubit to UI, **streams were used to send states asynchronously**
