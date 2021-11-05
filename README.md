@@ -2,12 +2,12 @@
 
 ## Env.
 
-Flutter SDK 2.5.1
-Dart 2.1.4
+Flutter SDK 2.5.1  
+Dart 2.1.4  
 
 ## Pkg.
 
-flutter_bloc 7.3.2
+flutter_bloc 7.3.2  
 
 ## Bloc & Cubit
 
