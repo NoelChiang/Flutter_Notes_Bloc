@@ -73,9 +73,9 @@ void build(BuildContext context) {
 ```
 
 3. Render widget based on Bloc/Cubit
-   A. BlocBuilder
-   **buildWhen:** Used to set a condition to trigger rebuilding when a state was streamed in. 
-   **builder:** The widget builder with state a parameter. 
+   A. BlocBuilder  
+   **buildWhen:** Used to set a condition to trigger rebuilding when a state was streamed in.  
+   **builder:** The widget builder with state a parameter.  
 
    ```
    BlocBuilder<MyCubit, MyCubitState>(
